@@ -1,5 +1,5 @@
 module "hub_and_spoke_vnet" {
-  source = "github.com/NetAion/avm-ptn-hubnetworking/v0.9.0-fork.1"
+  source = "github.com/NetAion/avm-ptn-hubnetworking?ref=v0.9.0-fork.1"
   # source = "../avm-ptn-hubnetworking"
   # source  = "Azure/avm-ptn-hubnetworking/azurerm"
   # version = "0.9.0"
